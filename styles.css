@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #87CEEB;
+    color: black;
     padding: 1rem;
     text-align: center;
 }
@@ -27,6 +27,22 @@ nav {
     font-weight: bold;
 }
 
+.heado{
+    background-color: #ebd034;
+    color: Red;
+    padding: 1rem;
+    text-align: center;
+
+}
+.headp{
+    background-color: #ebd034;
+    color: Red;
+    padding: 1rem;
+    text-align: center;
+
+
+}
+
 .nav-links {
     list-style: none;
     padding: 0;
@@ -42,7 +58,7 @@ nav {
   overflow: auto;
   white-space: nowrap;
   padding: 10px;
-}
+  }
 
 div.scroll-container img {
   padding: 10px;
@@ -75,8 +91,8 @@ div.scroll-container img {
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #87CEEB;
+    color: black;
     text-align: center;
     padding: 1rem;
 }

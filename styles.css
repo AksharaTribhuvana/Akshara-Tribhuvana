@@ -63,7 +63,7 @@ nav {
 }
 .headp{
     background-color: #ebd034;
-    color: Red;
+    color: purple;
     padding: 1rem;
     text-align: center;
 
@@ -175,3 +175,10 @@ footer {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.contentt{
+    background-color: #ebd034;
+    color: purple;
+    padding: 1rem;
+    text-align: center;
+}

@@ -188,7 +188,7 @@ footer {
   /* The image used */
   background-image: url("bg_img.jpeg");
 
-  min-height: 480px;
+  min-height: 1480px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

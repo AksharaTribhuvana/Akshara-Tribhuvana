@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    background-color: #87CEEB;
-    color: black;
+    background-color: white;
+    color: maroon;
     padding: 1rem;
     text-align: center;
 }
@@ -118,8 +118,8 @@ div.scroll-container img {
 }
 
 footer {
-    background-color: #87CEEB;
-    color: black;
+    background-color: white;
+    color: Maroon;
     text-align: center;
     padding: 1rem;
 }

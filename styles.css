@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    background-color: white;
-    color: maroon;
+    background-color: Maroon;
+    color: white ;
     padding: 1rem;
     text-align: center;
 }
@@ -56,7 +56,7 @@ nav {
 
 .heado{
     background-color: #ebd034;
-    color: Red;
+    color: Maroon;
     padding: 1rem;
     text-align: center;
 
@@ -118,8 +118,8 @@ div.scroll-container img {
 }
 
 footer {
-    background-color: white;
-    color: Maroon;
+    background-color: Maroon;
+    color: White ;
     text-align: center;
     padding: 1rem;
 }

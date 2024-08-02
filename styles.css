@@ -184,13 +184,4 @@ footer {
     text-align: center;
 }
 
-.bg-img {
-  /* The image used */
-  background-image: url("bg_img.jpeg");
 
-  min-height: 1500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
